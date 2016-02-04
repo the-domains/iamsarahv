@@ -1,0 +1,28 @@
+name: iamsarahv
+favicon: null
+layout_spectrum: 0.4178527460899204
+typography_spectrum: 0.543657825095579
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.33155258861370385
+  lightness: 0.43625029432587326
+  saturation: 0.6663966136984527
+  rhythmicContrast: 0.9169253678992391
+purpose: []
